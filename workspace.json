@@ -1,6 +1,8 @@
 {
   "version": 2,
   "projects": {
-    "mustakh": "apps/mustakh"
+    "backend": "apps/backend",
+    "frontend": "apps/frontend",
+    "mobile": "apps/mobile"
   }
 }
