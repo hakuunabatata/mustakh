@@ -3,6 +3,7 @@
   "projects": {
     "backend": "apps/backend",
     "frontend": "apps/frontend",
-    "mobile": "apps/mobile"
+    "mobile": "apps/mobile",
+    "prisma": "libs/prisma"
   }
 }
