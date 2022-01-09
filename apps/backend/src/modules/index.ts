@@ -1,6 +1,1 @@
-import { Module } from '@nestjs/common';
-
-@Module({
-  imports: [],
-})
-export class AppModule {}
+export * from './user';
